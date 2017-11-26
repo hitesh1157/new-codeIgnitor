@@ -1,11 +1,10 @@
 <html>
 	<head>
 		<title>
-			Code Ignitor Tutorial
+			
+			<?php echo $title; ?>
 		</title>
 	</head>
 	<body>
 		<h1><?php echo $title; ?></h1>
 		
-	</body>
-</html>
